@@ -1,0 +1,23 @@
+.container{
+    height: 400px;
+    width: 400px;
+    background-color: red;
+    border: 2px dashed rgb(19, 11, 1);
+    padding: 20px;
+    margin: 20px;
+    margin-left: 200px;
+
+}
+.child1{
+    background-color: brown;
+    padding: 20px;
+    height: 200px;
+    width: 200px;
+}
+#id{
+    background-color: red;
+}
+body{
+    background-color: rgb(213, 213, 229);
+    
+}
